@@ -1,0 +1,12 @@
+set1={1,2,3,4,5,6,7,8,9,10,11,12}
+print(set1)
+y={"Mihir",13,72,716.927,True}
+print(y)
+v={23,545,65,45,345,5,34545,}
+print(v)
+lst1=[1,2,3,4]
+x=set(lst1)
+print(x)
+lst2=[0,1,3,4,5]
+lst2.pop(0)
+print(lst2)
